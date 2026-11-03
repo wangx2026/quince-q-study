@@ -7,3 +7,5 @@
 
 ## 来源与许可
 Quince 原项目由 Shawn Banasick 等开发，按 GNU GPL v3 发布。本仓库保留原项目许可，修改了研究配置、陈述和页面入口。上游源代码见 https://github.com/shawnbanasick/quince 。
+
+GitHub Pages 使用仓库内的自动发布工作流。
