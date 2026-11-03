@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <statements version="1.0.9" htmlParse="false">;
+
+    <!-- 0. FILE INFORMATION -->
+    <info order="0-1" id="statementsFileVersion">1.0.9</info>
+    <info order="0-2" id="iterationDate">2026-08-18</info>
+    <info order="0-3" id="studyTitle">My Study Title</info> 
+    <info order="0-4" id="creationDate">2026-11-3@15:57</info> 
+
+    <!-- 1. STATEMENTS -->
+     <statement id="1">习惯了 AI 帮我写东西，现在让我自己动笔，脑子里一片空白。</statement>
+     <statement id="2">AI 流畅的答案常让我产生"我已经懂了"的错觉，实际并未掌握。</statement>
+     <statement id="3">当 AI 能即时给出答案时，我进行深度思考的耐心明显减少了。</statement>
+     <statement id="4">离开 AI 后，我在同类任务中的表现会明显变差。</statement>
+     <statement id="5">用 AI 获取的知识很难长期保留下来。</statement>
+     <statement id="6">AI 没有削弱我的思考能力，反而让我接触到更多元的观点。</statement>
+     <statement id="7">我与 AI 协作时的整体认知表现优于我单独工作。</statement>
+     <statement id="8">认知退化是被夸大的恐慌，每种新技术出现时人们都这样说。</statement>
+     <statement id="9">AI 替我做掉机械性工作，我才有精力做真正的创造性思考。</statement>
+     <statement id="10">我没有感觉到 AI 削弱了自己的独立思考能力。</statement>
+     <statement id="11">我坚持先独立写出思路框架，再让 AI 协助完善。</statement>
+     <statement id="12">对 AI 给出的关键事实与引用，我始终保持核查来源的习惯。</statement>
+     <statement id="13">我会明确划定"AI 禁区"——某些任务必须由自己完成。</statement>
+     <statement id="14">让 AI 告诉我做事的流程和方法，而不是直接给我最后的结果。</statement>
+     <statement id="15">用 AI 之后我会做"复盘"：把 AI 给出的东西用自己的话重新讲一遍。</statement>
+     <statement id="16">只要 AI 做得更快更好，我就没有必要坚持自己动手。</statement>
+     <statement id="17">遇到难题时，我的第一反应是让 AI 给出解决方案。</statement>
+     <statement id="18">我很少区分哪些任务该自己做、哪些该交给 AI。</statement>
+     <statement id="19">当 AI 提出一种做法后，我很少再尝试其他可能的路径。</statement>
+     <statement id="20">即使对 AI 的答案不完全满意，我也会先让它生成一个出来再说。</statement>
+     <statement id="21">我必须始终保持对最终成果的认知责任，不能归因于 AI。</statement>
+     <statement id="22">使用 AI 时，"谁在做决定" 这个问题必须始终清晰。</statement>
+     <statement id="23">放弃对 AI 输出的最终裁决权，就等于放弃认知主权。</statement>
+     <statement id="24">我警惕自己把 "AI 说的" 当作不再思考的理由。</statement>
+     <statement id="25">真正值得警惕的退化，是越来越依赖外部工具才能开始思考。</statement>
+     <statement id="26">把决策权交给数据充分的 AI，往往比人的直觉更可靠。</statement>
+     <statement id="27">未来人类的价值在于提出好问题，而非亲自解决问题。</statement>
+     <statement id="28">与 AI 深度协作本身就是一种新型认知能力，而非退化。</statement>
+     <statement id="29">遇到重大选择，我宁愿参考 AI 的分析而非自己的直觉。</statement>
+     <statement id="30">与其守住旧能力，不如训练自己成为善用 AI 的人。</statement>
+     <statement id="31">教育应明确教授 "何时不应使用 AI"，而不仅是如何使用。</statement>
+     <statement id="32">初学者应先在不使用 AI 的条件下建立基本能力，再学人机协作。</statement>
+     <statement id="33">课程考核应增设展示思考过程的环节，让思考外包无法伪装。</statement>
+     <statement id="34">判断 AI 是否应该介入一个任务，应该看这个任务原本想训练什么能力。</statement>
+     <statement id="35">教学中应有意识地设计 "合意困难"，保留必要的认知挑战。</statement>
+     <statement id="36">学校不应限制 AI 使用，那会让学生脱离真实的工具环境。</statement>
+     <statement id="37">AI 素养的核心是提示词技巧，而非批判性思维训练。</statement>
+     <statement id="38">传统基础技能训练在 AI 时代已失去大部分价值。</statement>
+     <statement id="39">"认知退化" 问题本身问错了 —— 关键是教育和评价制度跟没跟上。</statement>
+     <statement id="40">紧跟 AI 工具迭代比打牢旧基础更重要。</statement>
+     <statement id="41">看着自己的写作能力一点点退化，我有种说不出的恐慌。</statement>
+     <statement id="42">最让我害怕的不是退化本身，而是退化悄悄发生，察觉时已晚。</statement>
+     <statement id="43">明知依赖 AI 有退化风险却停不下来，这种失控感让我困扰。</statement>
+     <statement id="44">独立思考能力弱化了会有一定程度焦虑。</statement>
+     <statement id="45">想到自己可能已在不知不觉中依赖 AI，我感到隐隐的不安。</statement>
+     <statement id="46">能力像不再使用的器官一样退化，是自然规律，我对此顺其自然</statement>
+     <statement id="47">人机协作打开了过去想不到的可能，我对此感到兴奋。</statement>
+     <statement id="48">"退化焦虑"多半是被夸大的叙事，我拒绝为此内耗。</statement>
+     <statement id="49">意识到能力退化了，我不会焦虑，会想办法自己去练。</statement>
+     <statement id="50">平时大部分时间都能接触 AI，已经习惯了，不太关注独立思考是否下降。 </statement>
+   </statements>

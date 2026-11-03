@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <map version="1.0.9" htmlParse="false">;
+
+    <!-- 0. FILE INFORMATION -->
+      <info order="0-1" id="mapFileVersion">1.0.9</info>
+      <info order="0-2" id="iterationDate">2026-08-18</info>
+      <info order="0-3" id="studyTitle">AI协作中的认知退化风险研究</info> 
+      <info order="0-4" id="creationDate">2026-11-3@16:17</info> 
+    
+     <!-- 1. Q SORT GRID DESIGN AND COLORS -->
+     <column id="-5" colour="FFD5D5">2</column>
+     <column id="-4" colour="FFD5D5">2</column>
+     <column id="-3" colour="FFD5D5">4</column>
+     <column id="-2" colour="FFD5D5">6</column>
+     <column id="-1" colour="FFD5D5">7</column>
+     <column id="0" colour="E9E9E9">8</column>
+     <column id="1" colour="9FDFBF">7</column>
+     <column id="2" colour="9FDFBF">6</column>
+     <column id="3" colour="9FDFBF">4</column>
+     <column id="4" colour="9FDFBF">2</column>
+     <column id="5" colour="9FDFBF">2</column>
+     <item id="qSortHeaderNumbers">-5,-4,-3,-2,-1,0,1,2,3,4,5</item>
+     <item id="qSortHeaders">N5,N4,N3,N2,N1,0,1,2,3,4,5</item>
+     <item id="qSortPattern">2,2,4,6,7,8,7,6,4,2,2</item>
+     <item id="columnHeadersColorsArray">#F05252,#F98080,#F8B4B4,#FBD5D5,#FDE8E8,#F3F4F6,#DEF7EC,#BCF0DA,#84E1BC,#31C48D,#0E9F6E</item>
+     <item id="columnColorsArray">#F05252,#F98080,#F8B4B4,#FBD5D5,#FDE8E8,#F3F4F6,#DEF7EC,#BCF0DA,#84E1BC,#31C48D,#0E9F6E</item>
+
+     <!-- 2. COLUMN LABELS --> 
+     <item id="colTextLabelsArray">非常反對, 反對, 有点反對, 有点反對, 中立, 有点賛成, 賛成, 有点賛成, 賛成</item>
+     <item id="emojiArrayType">emoji4Array</item>
+     <item id="mobileHeadersDefaultLabels">labels9</item>
+     <item id="useColLabelEmojiPresort">false</item>
+     <item id="presortEmojiPositiveIndex">8</item>
+     <item id="presortEmojiNeutralIndex">4</item>
+     <item id="presortEmojiNegativeIndex">0</item>
+     <item id="useColLabelNums">true</item>
+     <item id="useColLabelText">false</item>
+     <item id="useColLabelEmoji">false</item>
+     <item id="useColLabelEmojiPostsort">false</item>
+     <item id="useColLabelTextPostsort">false</item>
+     <item id="useColLabelNumsPostsort">true</item>
+   </map>
