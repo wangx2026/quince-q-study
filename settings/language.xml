@@ -213,10 +213,10 @@
          <item order="20-2" id="linkedProjectBtnMessage">Begin Next Q sort</item>   
 
         <!-- 21. LOCAL DATA COLLECTION -->  
-        <item order="21-1" id="localHeader">Offline Q-sort Control Panel</item>
-        <item order="21-2" id="partIdText">Participant Name</item>
-        <item order="21-3" id="usercodeText">Usercode</item>
-        <item order="21-4" id="localStartButtonText">Start Q-sort</item>
+        <item order="21-1" id="localHeader">匿名Q排序入口</item>
+        <item order="21-2" id="partIdText">匿名代号（勿填真实姓名）</item>
+        <item order="21-3" id="usercodeText">匿名编号（自行设定）</item>
+        <item order="21-4" id="localStartButtonText">开始Q排序</item>
         <item order="21-5" id="localDeleteButtonText">Delete</item>
         <item order="21-6" id="localDownloadButtonText">下载Q排序结果文件</item>
         <item order="21-7" id="storedQsortsHeaderText">Stored Q-sorts</item>
